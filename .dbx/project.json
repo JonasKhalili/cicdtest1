@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Shared/dbx/cicdtest1",
+      "artifact_location": "dbfs:/Shared/dbx/projects/cicdtest1"
+    }
+  }
+}
